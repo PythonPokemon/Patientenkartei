@@ -1,0 +1,11 @@
+﻿<Application x:Class="Patientenkartei.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Patientenkartei"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
+<!--Eines der am häufigsten verwendeten Features der Datei "App.xaml" besteht darin, globale Ressourcen zu definieren, 
+    die von überall in einer Anwendung verwendet und aufgerufen werden können, z. B. globale Formatvorlagen. -->
